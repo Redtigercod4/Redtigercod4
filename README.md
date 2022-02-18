@@ -8,9 +8,9 @@ I am an aspiring Software Developer specialising in JavaScript
 
 <br />
 
-## 📫 How to reach me: 
+📫 How to reach me: 
 
-<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg style="padding-right:10px;" />
+- LinkedIn - https://www.linkedin.com/in/wesley-whittle-015792200/
 
 - Google Developer - https://developers.google.com/profile/u/wesleywhittle
 
