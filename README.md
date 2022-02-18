@@ -8,7 +8,7 @@ I am an aspiring Software Developer specialising in JavaScript
 
 <br />
 
-###📫 How to reach me: 
+📫 How to reach me: 
 
 - Linkedin - https://www.linkedin.com/in/wesley-whittle-015792200/
 
