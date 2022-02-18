@@ -10,7 +10,7 @@ I am an aspiring Software Developer specialising in JavaScript
 
 📫 How to reach me: 
 
-- Linkedin - https://www.linkedin.com/in/wesley-whittle-015792200/
+<a href=https://www.linkedin.com/in/wesley-whittle-015792200/>img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg style="padding-right:10px;" /></a>
 
 - Google Developer - https://developers.google.com/profile/u/wesleywhittle
 
