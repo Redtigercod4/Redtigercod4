@@ -27,6 +27,8 @@ I am an aspiring Software Developer specialising in JavaScript
 
 <br />
 
+---
+
 <details open>
   <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="Redtigercod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Redtigercod4&show_icons=true&hide_border=false&title_color=fff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
