@@ -2,17 +2,17 @@
 
 I am an aspiring Software Developer specialising in JavaScript
 
-🔭 I’m currently working on RAFA Rides & RAF Esports Santa Tracker
-🌱 I’m currently learning Software Development Principles within Agile workspaces
-⚡ Currently serving in the Royal Air Force
+- 🔭 I’m currently working on RAFA Rides & RAF Esports Santa Tracker
+- 🌱 I’m currently learning Software Development Principles within Agile workspaces
+- ⚡ Currently serving in the Royal Air Force
 
 <br />
 
-📫 How to reach me: 
+###📫 How to reach me: 
 
-Linkedin - https://www.linkedin.com/in/wesley-whittle-015792200/
+- Linkedin - https://www.linkedin.com/in/wesley-whittle-015792200/
 
-Google Developer - https://developers.google.com/profile/u/wesleywhittle
+- Google Developer - https://developers.google.com/profile/u/wesleywhittle
 
 <br />
 
