@@ -1,10 +1,12 @@
-### Hi there, I'm Wes 👋
+# Hi there, I'm Wes 👋
 
 I am an aspiring Software Developer specialising in JavaScript
 
 🔭 I’m currently working on RAFA Rides & RAF Esports Santa Tracker
 🌱 I’m currently learning Software Development Principles within Agile workspaces
 ⚡ Currently serving in the Royal Air Force
+
+<br />
 
 📫 How to reach me: 
 
