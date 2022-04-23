@@ -3,7 +3,7 @@
 I am an aspiring Software Developer specialising in JavaScript
 
 - 🔭 I’m currently working on RAFA Rides & RAF Esports Santa Tracker
-- 🌱 I’m currently learning Software Development Principles within Agile workspaces
+- 🌱 I’m currently learning GraphQL
 - ⚡ Currently serving in the Royal Air Force
 
 <br />
