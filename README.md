@@ -2,7 +2,7 @@
 
 I am an aspiring Software Developer specialising in JavaScript
 
-- 🔭 I’m currently working on internal RAF application
+- 🔭 I’m currently working on an Internal RAF application
 - 🌱 I’m currently learning Typescript
 - ⚡ Currently serving in the Royal Air Force
 
