@@ -2,8 +2,8 @@
 
 I am an aspiring Software Developer specialising in JavaScript
 
-- 🔭 I’m currently working on Micro Frontends within a React.js Application
-- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on internal RAF application
+- 🌱 I’m currently learning Typescript
 - ⚡ Currently serving in the Royal Air Force
 
 <br />
