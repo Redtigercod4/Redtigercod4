@@ -4,7 +4,6 @@ I am an aspiring Software Developer specialising in JavaScript
 
 - 🔭 I’m currently working on Trace (https://github.com/DigitalForge-Dynamics/Trace)
 - 🌱 I’m currently developing my skills in DevOps & TypeScript
-- ⚡ Currently serving in the Royal Air Force
 
 <br />
 
